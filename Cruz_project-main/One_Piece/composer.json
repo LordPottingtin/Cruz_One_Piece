@@ -1,0 +1,15 @@
+{
+    "name": "ryan/chipotle",
+    "authors": [
+        {
+            "name": "LordPottingtin",
+            "email": "32198503+LordPottingtin@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
